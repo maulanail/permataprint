@@ -7,3 +7,5 @@ password admin: permataprint
 
 usernama user: ilham maulana
 password user: maulana
+
+database phpmyadmin : permataprint.sql
