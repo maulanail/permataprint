@@ -1,3 +1,6 @@
+untuk lebih lengkap ada permataprint.rar
+
+
 untuk login
 username admin: permataprint
 password admin: permataprint
